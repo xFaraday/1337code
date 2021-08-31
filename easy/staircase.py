@@ -1,13 +1,17 @@
 #!/bin/python3
 #
+#Given a number, make a staircase that size
 #
+#INPUT:
+#6
 #
-#
-#
-#
-#
-#
-#
+#OUTPUT:
+#       #
+#      ##
+#     ###
+#    ####
+#   #####
+#  ######
 
 n = int(input())
 loop = n + 1

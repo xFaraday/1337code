@@ -1,8 +1,0 @@
-#!/bin/python
-
-
-
-
-
-def main():
-    
